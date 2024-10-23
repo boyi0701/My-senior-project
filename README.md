@@ -27,4 +27,5 @@
   ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E8%A8%93%E7%B7%B4.png)  
   	步驟五:回測結果
    ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E5%9B%9E%E6%B8%AC%E7%B5%90%E6%9E%9C.png)
-  
+
+  為了讓沒有程式背景的使用者操作介面更為簡單,程式碼放在後端我利用python的模組(Module),把要使用的函式另外寫成3個檔案,分別是:data.py ,predicting.py ,training.py
