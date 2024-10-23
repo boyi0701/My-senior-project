@@ -15,4 +15,14 @@
 	測試時間段 : 2021/10/18 ~ 2023/10/25  
 	這邊我們是學習模型測試到2023/10/25當下  
 軟體功能實作
-![image](https://github.com/boyi0701/My-senior-project/blob/main/%E9%80%A3%E7%B5%90%E9%9B%B2%E7%AB%AF.png)
+	步驟1:連結Colab到使用者的google雲端硬碟  
+ ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E9%80%A3%E7%B5%90%E9%9B%B2%E7%AB%AF.png)
+	步驟2:安裝套件  
+ ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E5%AE%89%E8%A3%9D%E5%A5%97%E4%BB%B6.png)    
+	步驟3:設定參數  
+ ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E8%A8%AD%E5%AE%9A%E5%8F%83%E6%95%B8.png)    
+ ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E7%B4%B9%E5%AE%9A%E5%8F%83%E6%95%B81.png)    
+ 	步驟四:資料、環境建置、模型訓練  
+  ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E8%B3%87%E6%96%99%E3%80%81%E7%92%B0%E5%A2%83%E5%BB%BA%E7%BD%AE%E3%80%81%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4.png)  
+  ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E8%A8%93%E7%B7%B4.png)  
+  
