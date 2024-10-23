@@ -14,7 +14,7 @@
 	蒐集BTC- ETH- BNB- SOL- BUSD的漲幅數據  
 	測試時間段 : 2021/10/18 ~ 2023/10/25  
 	這邊我們是學習模型測試到2023/10/25當下  
-軟體功能實作
+軟體功能實作  
 	步驟1:連結Colab到使用者的google雲端硬碟  
  ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E9%80%A3%E7%B5%90%E9%9B%B2%E7%AB%AF.png)
 	步驟2:安裝套件  
