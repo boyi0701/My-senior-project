@@ -15,3 +15,4 @@
 	測試時間段 : 2021/10/18 ~ 2023/10/25  
 	這邊我們是學習模型測試到2023/10/25當下  
 軟體功能實作
+![image]([picture or gif url](https://github.com/boyi0701/My-senior-project/blob/main/%E9%80%A3%E7%B5%90%E9%9B%B2%E7%AB%AF.png))
