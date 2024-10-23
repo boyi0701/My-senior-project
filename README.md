@@ -29,3 +29,19 @@
    ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E5%9B%9E%E6%B8%AC%E7%B5%90%E6%9E%9C.png)
 
   為了讓沒有程式背景的使用者操作介面更為簡單,程式碼放在後端我利用python的模組(Module),把要使用的函式另外寫成3個檔案,分別是:data.py ,predicting.py ,training.py
+  
+  data.py:  
+	  簡單敘述data.py:
+		1.使用joblib、pandas、numpy、talib、ta 等資料庫來處理和分析金融數據。  
+		2.準備金融數據:prepare_data 函數負責從指定文件夾讀取金融數據，選擇特定的加密貨幣列表（crypto_list），並提取出訓練和交易期間的相關數據。函數中進行了數據的清洗、重新取樣和結構化，以及對每個加密貨幣應用各種技術指標。  
+		3. 特徵生成：  
+		函數中對於選定的特徵列表（feature_list），生成相應的特徵數據。這些特徵包括但不限於：  
+		hedging：根據特定的指數（如 BTC/USDT）生成對沖策略相關的特徵。  
+		dd：計算每個加密貨幣的回撤（drawdown）特徵。  
+		86ta：使用 talib 和其他計算手段生成技術分析指標。  
+		st：計算超級趨勢（supertrend）指標。  
+		qlib：根據收盤價格和成交量等計算量化金融特徵。  
+		catch22：使用 pycatch22 庫計算加密貨幣價格的相關特徵。  
+		4.數據合併：  
+		最後將生成的各種特徵數據合併為一個完整的數據集，用於訓練和測試模型。  
+
