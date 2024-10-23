@@ -84,6 +84,7 @@ train_test_agent 函數：
 
 
 步驟6得到結果:  
+![image](https://github.com/boyi0701/My-senior-project/blob/main/%E7%B5%90%E6%9E%9C1.png)
 ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E7%B5%90%E6%9E%9C.png)
 
 
