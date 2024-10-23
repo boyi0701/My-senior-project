@@ -16,17 +16,17 @@
 	這邊我們是學習模型測試到2023/10/25當下  
 軟體功能實作  
 	步驟1:連結Colab到使用者的google雲端硬碟  
- ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E9%80%A3%E7%B5%90%E9%9B%B2%E7%AB%AF.png)
+ ![image](https://github.com/boyi0701/My-senior-project/blob/main/picture/%E9%80%A3%E7%B5%90%E9%9B%B2%E7%AB%AF.png)
 	步驟2:安裝套件  
- ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E5%AE%89%E8%A3%9D%E5%A5%97%E4%BB%B6.png)    
+ ![image](https://github.com/boyi0701/My-senior-project/blob/main/picture/%E5%AE%89%E8%A3%9D%E5%A5%97%E4%BB%B6.png)
 	步驟3:設定參數  
- ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E8%A8%AD%E5%AE%9A%E5%8F%83%E6%95%B8.png)    
- ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E7%B4%B9%E5%AE%9A%E5%8F%83%E6%95%B81.png)    
+ ![image](https://github.com/boyi0701/My-senior-project/blob/main/picture/%E8%A8%AD%E5%AE%9A%E5%8F%83%E6%95%B8.png)
+ ![image](https://github.com/boyi0701/My-senior-project/blob/main/picture/%E7%B4%B9%E5%AE%9A%E5%8F%83%E6%95%B81.png)
  	步驟四:資料、環境建置、模型訓練  
-  ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E8%B3%87%E6%96%99%E3%80%81%E7%92%B0%E5%A2%83%E5%BB%BA%E7%BD%AE%E3%80%81%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4.png)  
-  ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E8%A8%93%E7%B7%B4.png)  
+  ![image](https://github.com/boyi0701/My-senior-project/blob/main/picture/%E8%B3%87%E6%96%99%E3%80%81%E7%92%B0%E5%A2%83%E5%BB%BA%E7%BD%AE%E3%80%81%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4.png) 
+  ![image](https://github.com/boyi0701/My-senior-project/blob/main/picture/%E8%A8%93%E7%B7%B4.png) 
   	步驟五:回測結果
-   ![image](https://github.com/boyi0701/My-senior-project/blob/main/%E5%9B%9E%E6%B8%AC%E7%B5%90%E6%9E%9C.png)
+   ![image](https://github.com/boyi0701/My-senior-project/blob/main/picture/%E5%9B%9E%E6%B8%AC%E7%B5%90%E6%9E%9C.png)
 
   為了讓沒有程式背景的使用者操作介面更為簡單,程式碼放在後端我利用python的模組(Module),把要使用的函式另外寫成3個檔案,分別是:data.py ,predicting.py ,training.py
   
@@ -84,8 +84,8 @@ train_test_agent 函數：
 
 
 步驟6得到結果:  
-![image](https://github.com/boyi0701/My-senior-project/blob/main/%E7%B5%90%E6%9E%9C1.png)
-![image](https://github.com/boyi0701/My-senior-project/blob/main/%E7%B5%90%E6%9E%9C.png)
+![image](https://github.com/boyi0701/My-senior-project/blob/main/picture/%E7%B5%90%E6%9E%9C1.png)
+![image](https://github.com/boyi0701/My-senior-project/blob/main/picture/%E7%B5%90%E6%9E%9C.png)
 
 
 
